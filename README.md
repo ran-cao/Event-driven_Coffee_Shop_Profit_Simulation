@@ -1,6 +1,6 @@
 # Event-driven Coffee Shop Profit Simulation
 
-Design an optimal delivery routes for trucks using a revised version of Dijkstra’s algorithm and Graph Theory
+Determine the optimal number of employee to hire for maximizing profit and simulated the tradeoff between a high operational cost (more employee) and a high customer churn rate (less employee)
 
 ### Project Glimpse
 This project is a Coffee Shop event-driven simulation process. By scanning an input file, which contains a list of given perimeters (cost per cashier, profit per customer, and service time of each cashier), we were able to find daily net profit, rate of overflow, average waiting time, and maximum waiting time, with a fixed number of cashier. Then we altered the number of cashier to find a profit maximization point.
