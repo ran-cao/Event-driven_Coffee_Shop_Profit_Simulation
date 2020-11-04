@@ -1,0 +1,1346 @@
+service time of cashier 0 is 1.2431935919720036
+service time of cashier 1 is 1.4558860528052817
+service time of cashier 2 is 7.811084732566884
+service time of cashier 3 is 0.07974603924053314
+
+current time: 6.750349703907907 event type: 1
+customer 0 arrives
+customer 0 is served at 6.750349703907907by cashier 0 and will leave at 7.993543295879911
+
+current time: 7.993543295879911 event type: 2
+customer 0 is leaving at time 7.993543295879911
+
+current time: 13.375968960538009 event type: 1
+customer 1 arrives
+customer 1 is served at 13.375968960538009by cashier 0 and will leave at 14.619162552510012
+
+current time: 14.619162552510012 event type: 2
+customer 1 is leaving at time 14.619162552510012
+
+current time: 20.12218777871876 event type: 1
+customer 2 arrives
+customer 2 is served at 20.12218777871876by cashier 0 and will leave at 21.365381370690763
+
+current time: 21.365381370690763 event type: 2
+customer 2 is leaving at time 21.365381370690763
+
+current time: 26.39734371989228 event type: 1
+customer 3 arrives
+customer 3 is served at 26.39734371989228by cashier 0 and will leave at 27.640537311864286
+
+current time: 27.640537311864286 event type: 2
+customer 3 is leaving at time 27.640537311864286
+
+current time: 30.7612760856183 event type: 1
+customer 4 arrives
+customer 4 is served at 30.7612760856183by cashier 0 and will leave at 32.0044696775903
+
+current time: 32.0044696775903 event type: 2
+customer 4 is leaving at time 32.0044696775903
+
+current time: 32.70051783836812 event type: 1
+customer 5 arrives
+customer 5 is served at 32.70051783836812by cashier 0 and will leave at 33.94371143034012
+
+current time: 33.94371143034012 event type: 2
+customer 5 is leaving at time 33.94371143034012
+
+current time: 37.88108765056588 event type: 1
+customer 6 arrives
+customer 6 is served at 37.88108765056588by cashier 0 and will leave at 39.12428124253788
+
+current time: 39.12428124253788 event type: 2
+customer 6 is leaving at time 39.12428124253788
+
+current time: 42.04691259779384 event type: 1
+customer 7 arrives
+customer 7 is served at 42.04691259779384by cashier 0 and will leave at 43.290106189765844
+
+current time: 43.290106189765844 event type: 2
+customer 7 is leaving at time 43.290106189765844
+
+current time: 49.3675720145967 event type: 1
+customer 8 arrives
+customer 8 is served at 49.3675720145967by cashier 0 and will leave at 50.610765606568705
+
+current time: 50.610765606568705 event type: 2
+customer 8 is leaving at time 50.610765606568705
+
+current time: 56.080118862965385 event type: 1
+customer 9 arrives
+customer 9 is served at 56.080118862965385by cashier 0 and will leave at 57.32331245493739
+
+current time: 57.32331245493739 event type: 2
+customer 9 is leaving at time 57.32331245493739
+
+current time: 63.57390543882481 event type: 1
+customer 10 arrives
+customer 10 is served at 63.57390543882481by cashier 0 and will leave at 64.81709903079681
+
+current time: 64.81709903079681 event type: 2
+customer 10 is leaving at time 64.81709903079681
+
+current time: 66.10312371682653 event type: 1
+customer 11 arrives
+customer 11 is served at 66.10312371682653by cashier 0 and will leave at 67.34631730879853
+
+current time: 66.1696002911199 event type: 1
+customer 12 arrives
+customer 12 is served at 66.1696002911199by cashier 1 and will leave at 67.62548634392519
+
+current time: 67.34631730879853 event type: 2
+customer 11 is leaving at time 67.34631730879853
+
+current time: 67.62548634392519 event type: 2
+customer 12 is leaving at time 67.62548634392519
+
+current time: 76.18875592168823 event type: 1
+customer 13 arrives
+customer 13 is served at 76.18875592168823by cashier 0 and will leave at 77.43194951366023
+
+current time: 77.43194951366023 event type: 2
+customer 13 is leaving at time 77.43194951366023
+
+current time: 85.19438740937007 event type: 1
+customer 14 arrives
+customer 14 is served at 85.19438740937007by cashier 0 and will leave at 86.43758100134207
+
+current time: 86.43758100134207 event type: 2
+customer 14 is leaving at time 86.43758100134207
+
+current time: 88.13013644940321 event type: 1
+customer 15 arrives
+customer 15 is served at 88.13013644940321by cashier 0 and will leave at 89.37333004137521
+
+current time: 89.37333004137521 event type: 2
+customer 15 is leaving at time 89.37333004137521
+
+current time: 89.948880616015 event type: 1
+customer 16 arrives
+customer 16 is served at 89.948880616015by cashier 0 and will leave at 91.192074207987
+
+current time: 91.192074207987 event type: 2
+customer 16 is leaving at time 91.192074207987
+
+current time: 91.98131841910026 event type: 1
+customer 17 arrives
+customer 17 is served at 91.98131841910026by cashier 0 and will leave at 93.22451201107226
+
+current time: 93.22451201107226 event type: 2
+customer 17 is leaving at time 93.22451201107226
+
+current time: 96.67442066376798 event type: 1
+customer 18 arrives
+customer 18 is served at 96.67442066376798by cashier 0 and will leave at 97.91761425573998
+
+current time: 97.91761425573998 event type: 2
+customer 18 is leaving at time 97.91761425573998
+
+current time: 100.24049112379284 event type: 1
+customer 19 arrives
+customer 19 is served at 100.24049112379284by cashier 0 and will leave at 101.48368471576484
+
+current time: 101.48368471576484 event type: 2
+customer 19 is leaving at time 101.48368471576484
+
+current time: 105.90162018374869 event type: 1
+customer 20 arrives
+customer 20 is served at 105.90162018374869by cashier 0 and will leave at 107.14481377572069
+
+current time: 107.14481377572069 event type: 2
+customer 20 is leaving at time 107.14481377572069
+
+current time: 116.7527236930497 event type: 1
+customer 21 arrives
+customer 21 is served at 116.7527236930497by cashier 0 and will leave at 117.9959172850217
+
+current time: 117.9959172850217 event type: 2
+customer 21 is leaving at time 117.9959172850217
+
+current time: 120.95326467229194 event type: 1
+customer 22 arrives
+customer 22 is served at 120.95326467229194by cashier 0 and will leave at 122.19645826426394
+
+current time: 122.19645826426394 event type: 2
+customer 22 is leaving at time 122.19645826426394
+
+current time: 132.70555858376036 event type: 1
+customer 23 arrives
+customer 23 is served at 132.70555858376036by cashier 0 and will leave at 133.94875217573238
+
+current time: 133.94875217573238 event type: 2
+customer 23 is leaving at time 133.94875217573238
+
+current time: 136.94686702393253 event type: 1
+customer 24 arrives
+customer 24 is served at 136.94686702393253by cashier 0 and will leave at 138.19006061590454
+
+current time: 138.19006061590454 event type: 2
+customer 24 is leaving at time 138.19006061590454
+
+current time: 140.35593679346863 event type: 1
+customer 25 arrives
+customer 25 is served at 140.35593679346863by cashier 0 and will leave at 141.59913038544065
+
+current time: 141.59913038544065 event type: 2
+customer 25 is leaving at time 141.59913038544065
+
+current time: 141.61751185053595 event type: 1
+customer 26 arrives
+customer 26 is served at 141.61751185053595by cashier 0 and will leave at 142.86070544250796
+
+current time: 142.85729874808752 event type: 1
+customer 27 arrives
+customer 27 is served at 142.85729874808752by cashier 1 and will leave at 144.3131848008928
+
+current time: 142.86070544250796 event type: 2
+customer 26 is leaving at time 142.86070544250796
+
+current time: 143.77892278642238 event type: 1
+customer 28 arrives
+customer 28 is served at 143.77892278642238by cashier 0 and will leave at 145.0221163783944
+
+current time: 144.3131848008928 event type: 2
+customer 27 is leaving at time 144.3131848008928
+
+current time: 145.0221163783944 event type: 2
+customer 28 is leaving at time 145.0221163783944
+
+current time: 147.54604343464618 event type: 1
+customer 29 arrives
+customer 29 is served at 147.54604343464618by cashier 0 and will leave at 148.7892370266182
+
+current time: 148.7892370266182 event type: 2
+customer 29 is leaving at time 148.7892370266182
+
+current time: 153.0047993519936 event type: 1
+customer 30 arrives
+customer 30 is served at 153.0047993519936by cashier 0 and will leave at 154.2479929439656
+
+current time: 154.2479929439656 event type: 2
+customer 30 is leaving at time 154.2479929439656
+
+current time: 157.64997945325493 event type: 1
+customer 31 arrives
+customer 31 is served at 157.64997945325493by cashier 0 and will leave at 158.89317304522694
+
+current time: 158.89317304522694 event type: 2
+customer 31 is leaving at time 158.89317304522694
+
+current time: 163.03430686820047 event type: 1
+customer 32 arrives
+customer 32 is served at 163.03430686820047by cashier 0 and will leave at 164.2775004601725
+
+current time: 164.2775004601725 event type: 2
+customer 32 is leaving at time 164.2775004601725
+
+current time: 165.16616856896846 event type: 1
+customer 33 arrives
+customer 33 is served at 165.16616856896846by cashier 0 and will leave at 166.40936216094047
+
+current time: 166.40936216094047 event type: 2
+customer 33 is leaving at time 166.40936216094047
+
+current time: 168.0378294194742 event type: 1
+customer 34 arrives
+customer 34 is served at 168.0378294194742by cashier 0 and will leave at 169.28102301144622
+
+current time: 168.62186689303456 event type: 1
+customer 35 arrives
+customer 35 is served at 168.62186689303456by cashier 1 and will leave at 170.07775294583985
+
+current time: 169.28102301144622 event type: 2
+customer 34 is leaving at time 169.28102301144622
+
+current time: 170.07775294583985 event type: 2
+customer 35 is leaving at time 170.07775294583985
+
+current time: 172.49095416001785 event type: 1
+customer 36 arrives
+customer 36 is served at 172.49095416001785by cashier 0 and will leave at 173.73414775198987
+
+current time: 173.73414775198987 event type: 2
+customer 36 is leaving at time 173.73414775198987
+
+current time: 177.1421871658763 event type: 1
+customer 37 arrives
+customer 37 is served at 177.1421871658763by cashier 0 and will leave at 178.3853807578483
+
+current time: 178.3853807578483 event type: 2
+customer 37 is leaving at time 178.3853807578483
+
+current time: 182.27237060472785 event type: 1
+customer 38 arrives
+customer 38 is served at 182.27237060472785by cashier 0 and will leave at 183.51556419669987
+
+current time: 183.51556419669987 event type: 2
+customer 38 is leaving at time 183.51556419669987
+
+current time: 190.7406748873864 event type: 1
+customer 39 arrives
+customer 39 is served at 190.7406748873864by cashier 0 and will leave at 191.98386847935842
+
+current time: 191.98386847935842 event type: 2
+customer 39 is leaving at time 191.98386847935842
+
+current time: 195.917582425133 event type: 1
+customer 40 arrives
+customer 40 is served at 195.917582425133by cashier 0 and will leave at 197.160776017105
+
+current time: 197.160776017105 event type: 2
+customer 40 is leaving at time 197.160776017105
+
+current time: 197.6145077759271 event type: 1
+customer 41 arrives
+customer 41 is served at 197.6145077759271by cashier 0 and will leave at 198.85770136789912
+
+current time: 198.85770136789912 event type: 2
+customer 41 is leaving at time 198.85770136789912
+
+current time: 214.48164827706856 event type: 1
+customer 42 arrives
+customer 42 is served at 214.48164827706856by cashier 0 and will leave at 215.72484186904057
+
+current time: 215.72484186904057 event type: 2
+customer 42 is leaving at time 215.72484186904057
+
+current time: 229.17737565672206 event type: 1
+customer 43 arrives
+customer 43 is served at 229.17737565672206by cashier 0 and will leave at 230.42056924869408
+
+current time: 230.42056924869408 event type: 2
+customer 43 is leaving at time 230.42056924869408
+
+current time: 239.32705332042323 event type: 1
+customer 44 arrives
+customer 44 is served at 239.32705332042323by cashier 0 and will leave at 240.57024691239525
+
+current time: 240.57024691239525 event type: 2
+customer 44 is leaving at time 240.57024691239525
+
+current time: 250.48486801936392 event type: 1
+customer 45 arrives
+customer 45 is served at 250.48486801936392by cashier 0 and will leave at 251.72806161133593
+
+current time: 251.32592060885483 event type: 1
+customer 46 arrives
+customer 46 is served at 251.32592060885483by cashier 1 and will leave at 252.7818066616601
+
+current time: 251.72806161133593 event type: 2
+customer 45 is leaving at time 251.72806161133593
+
+current time: 252.7818066616601 event type: 2
+customer 46 is leaving at time 252.7818066616601
+
+current time: 261.978940368966 event type: 1
+customer 47 arrives
+customer 47 is served at 261.978940368966by cashier 0 and will leave at 263.222133960938
+
+current time: 262.802100486181 event type: 1
+customer 48 arrives
+customer 48 is served at 262.802100486181by cashier 1 and will leave at 264.2579865389863
+
+current time: 263.222133960938 event type: 2
+customer 47 is leaving at time 263.222133960938
+
+current time: 264.2579865389863 event type: 2
+customer 48 is leaving at time 264.2579865389863
+
+current time: 266.2251677667477 event type: 1
+customer 49 arrives
+customer 49 is served at 266.2251677667477by cashier 0 and will leave at 267.4683613587197
+
+current time: 267.4683613587197 event type: 2
+customer 49 is leaving at time 267.4683613587197
+
+current time: 267.96085395145786 event type: 1
+customer 50 arrives
+customer 50 is served at 267.96085395145786by cashier 0 and will leave at 269.20404754342985
+
+current time: 269.20404754342985 event type: 2
+customer 50 is leaving at time 269.20404754342985
+
+current time: 298.46178113248584 event type: 1
+customer 51 arrives
+customer 51 is served at 298.46178113248584by cashier 0 and will leave at 299.7049747244578
+
+current time: 299.7049747244578 event type: 2
+customer 51 is leaving at time 299.7049747244578
+
+current time: 303.6275162291578 event type: 1
+customer 52 arrives
+customer 52 is served at 303.6275162291578by cashier 0 and will leave at 304.87070982112976
+
+current time: 304.87070982112976 event type: 2
+customer 52 is leaving at time 304.87070982112976
+
+current time: 306.3601848933436 event type: 1
+customer 53 arrives
+customer 53 is served at 306.3601848933436by cashier 0 and will leave at 307.6033784853156
+
+current time: 307.1509340749817 event type: 1
+customer 54 arrives
+customer 54 is served at 307.1509340749817by cashier 1 and will leave at 308.606820127787
+
+current time: 307.6033784853156 event type: 2
+customer 53 is leaving at time 307.6033784853156
+
+current time: 308.606820127787 event type: 2
+customer 54 is leaving at time 308.606820127787
+
+current time: 311.67619837201323 event type: 1
+customer 55 arrives
+customer 55 is served at 311.67619837201323by cashier 0 and will leave at 312.9193919639852
+
+current time: 312.9193919639852 event type: 2
+customer 55 is leaving at time 312.9193919639852
+
+current time: 317.0940292769517 event type: 1
+customer 56 arrives
+customer 56 is served at 317.0940292769517by cashier 0 and will leave at 318.3372228689237
+
+current time: 317.4827101088631 event type: 1
+customer 57 arrives
+customer 57 is served at 317.4827101088631by cashier 1 and will leave at 318.9385961616684
+
+current time: 318.3372228689237 event type: 2
+customer 56 is leaving at time 318.3372228689237
+
+current time: 318.9385961616684 event type: 2
+customer 57 is leaving at time 318.9385961616684
+
+current time: 324.00604967587884 event type: 1
+customer 58 arrives
+customer 58 is served at 324.00604967587884by cashier 0 and will leave at 325.24924326785083
+
+current time: 325.24924326785083 event type: 2
+customer 58 is leaving at time 325.24924326785083
+
+current time: 329.9825396955882 event type: 1
+customer 59 arrives
+customer 59 is served at 329.9825396955882by cashier 0 and will leave at 331.22573328756016
+
+current time: 331.22573328756016 event type: 2
+customer 59 is leaving at time 331.22573328756016
+
+current time: 332.48828594701746 event type: 1
+customer 60 arrives
+customer 60 is served at 332.48828594701746by cashier 0 and will leave at 333.73147953898945
+
+current time: 332.9483381715368 event type: 1
+customer 61 arrives
+customer 61 is served at 332.9483381715368by cashier 1 and will leave at 334.4042242243421
+
+current time: 333.73147953898945 event type: 2
+customer 60 is leaving at time 333.73147953898945
+
+current time: 334.15671783753385 event type: 1
+customer 62 arrives
+customer 62 is served at 334.15671783753385by cashier 0 and will leave at 335.39991142950583
+
+current time: 334.4042242243421 event type: 2
+customer 61 is leaving at time 334.4042242243421
+
+current time: 335.39991142950583 event type: 2
+customer 62 is leaving at time 335.39991142950583
+
+current time: 336.8422638474609 event type: 1
+customer 63 arrives
+customer 63 is served at 336.8422638474609by cashier 0 and will leave at 338.0854574394329
+
+current time: 337.64222952315373 event type: 1
+customer 64 arrives
+customer 64 is served at 337.64222952315373by cashier 1 and will leave at 339.098115575959
+
+current time: 338.0854574394329 event type: 2
+customer 63 is leaving at time 338.0854574394329
+
+current time: 339.098115575959 event type: 2
+customer 64 is leaving at time 339.098115575959
+
+current time: 339.35816203462906 event type: 1
+customer 65 arrives
+customer 65 is served at 339.35816203462906by cashier 0 and will leave at 340.60135562660105
+
+current time: 340.60135562660105 event type: 2
+customer 65 is leaving at time 340.60135562660105
+
+current time: 340.97999877764005 event type: 1
+customer 66 arrives
+customer 66 is served at 340.97999877764005by cashier 0 and will leave at 342.22319236961204
+
+current time: 342.22319236961204 event type: 2
+customer 66 is leaving at time 342.22319236961204
+
+current time: 346.88058567540895 event type: 1
+customer 67 arrives
+customer 67 is served at 346.88058567540895by cashier 0 and will leave at 348.12377926738094
+
+current time: 348.12377926738094 event type: 2
+customer 67 is leaving at time 348.12377926738094
+
+current time: 348.49032690364254 event type: 1
+customer 68 arrives
+customer 68 is served at 348.49032690364254by cashier 0 and will leave at 349.7335204956145
+
+current time: 349.5924353419754 event type: 1
+customer 69 arrives
+customer 69 is served at 349.5924353419754by cashier 1 and will leave at 351.04832139478066
+
+current time: 349.7335204956145 event type: 2
+customer 68 is leaving at time 349.7335204956145
+
+current time: 351.04832139478066 event type: 2
+customer 69 is leaving at time 351.04832139478066
+
+current time: 365.31825819537136 event type: 1
+customer 70 arrives
+customer 70 is served at 365.31825819537136by cashier 0 and will leave at 366.56145178734334
+
+current time: 366.56145178734334 event type: 2
+customer 70 is leaving at time 366.56145178734334
+
+current time: 370.70612084547577 event type: 1
+customer 71 arrives
+customer 71 is served at 370.70612084547577by cashier 0 and will leave at 371.94931443744775
+
+current time: 371.94931443744775 event type: 2
+customer 71 is leaving at time 371.94931443744775
+
+current time: 380.0798472255858 event type: 1
+customer 72 arrives
+customer 72 is served at 380.0798472255858by cashier 0 and will leave at 381.3230408175578
+
+current time: 381.3230408175578 event type: 2
+customer 72 is leaving at time 381.3230408175578
+
+current time: 385.0022741323105 event type: 1
+customer 73 arrives
+customer 73 is served at 385.0022741323105by cashier 0 and will leave at 386.2454677242825
+
+current time: 386.13296089317197 event type: 1
+customer 74 arrives
+customer 74 is served at 386.13296089317197by cashier 1 and will leave at 387.58884694597725
+
+current time: 386.2454677242825 event type: 2
+customer 73 is leaving at time 386.2454677242825
+
+current time: 387.58884694597725 event type: 2
+customer 74 is leaving at time 387.58884694597725
+
+current time: 390.13153819023154 event type: 1
+customer 75 arrives
+customer 75 is served at 390.13153819023154by cashier 0 and will leave at 391.3747317822035
+
+current time: 391.3747317822035 event type: 2
+customer 75 is leaving at time 391.3747317822035
+
+current time: 394.0682190077702 event type: 1
+customer 76 arrives
+customer 76 is served at 394.0682190077702by cashier 0 and will leave at 395.3114125997422
+
+current time: 395.3114125997422 event type: 2
+customer 76 is leaving at time 395.3114125997422
+
+current time: 401.5977739642089 event type: 1
+customer 77 arrives
+customer 77 is served at 401.5977739642089by cashier 0 and will leave at 402.8409675561809
+
+current time: 402.8409675561809 event type: 2
+customer 77 is leaving at time 402.8409675561809
+
+current time: 403.2801547526346 event type: 1
+customer 78 arrives
+customer 78 is served at 403.2801547526346by cashier 0 and will leave at 404.5233483446066
+
+current time: 403.8481915344942 event type: 1
+customer 79 arrives
+customer 79 is served at 403.8481915344942by cashier 1 and will leave at 405.3040775872995
+
+current time: 404.5233483446066 event type: 2
+customer 78 is leaving at time 404.5233483446066
+
+current time: 405.1616772117353 event type: 1
+customer 80 arrives
+customer 80 is served at 405.1616772117353by cashier 0 and will leave at 406.4048708037073
+
+current time: 405.3040775872995 event type: 2
+customer 79 is leaving at time 405.3040775872995
+
+current time: 406.4048708037073 event type: 2
+customer 80 is leaving at time 406.4048708037073
+
+current time: 410.16797643874395 event type: 1
+customer 81 arrives
+customer 81 is served at 410.16797643874395by cashier 0 and will leave at 411.41117003071594
+
+current time: 411.41117003071594 event type: 2
+customer 81 is leaving at time 411.41117003071594
+
+current time: 412.83826122060157 event type: 1
+customer 82 arrives
+customer 82 is served at 412.83826122060157by cashier 0 and will leave at 414.08145481257355
+
+current time: 414.08145481257355 event type: 2
+customer 82 is leaving at time 414.08145481257355
+
+current time: 418.3038689436149 event type: 1
+customer 83 arrives
+customer 83 is served at 418.3038689436149by cashier 0 and will leave at 419.54706253558686
+
+current time: 418.921004450899 event type: 1
+customer 84 arrives
+customer 84 is served at 418.921004450899by cashier 1 and will leave at 420.37689050370426
+
+current time: 419.54706253558686 event type: 2
+customer 83 is leaving at time 419.54706253558686
+
+current time: 420.37689050370426 event type: 2
+customer 84 is leaving at time 420.37689050370426
+
+current time: 426.1965575552204 event type: 1
+customer 85 arrives
+customer 85 is served at 426.1965575552204by cashier 0 and will leave at 427.4397511471924
+
+current time: 427.4397511471924 event type: 2
+customer 85 is leaving at time 427.4397511471924
+
+current time: 445.1072424170823 event type: 1
+customer 86 arrives
+customer 86 is served at 445.1072424170823by cashier 0 and will leave at 446.3504360090543
+
+current time: 446.3504360090543 event type: 2
+customer 86 is leaving at time 446.3504360090543
+
+current time: 450.5252378527552 event type: 1
+customer 87 arrives
+customer 87 is served at 450.5252378527552by cashier 0 and will leave at 451.7684314447272
+
+current time: 451.7684314447272 event type: 2
+customer 87 is leaving at time 451.7684314447272
+
+current time: 454.04936569641677 event type: 1
+customer 88 arrives
+customer 88 is served at 454.04936569641677by cashier 0 and will leave at 455.29255928838876
+
+current time: 455.29255928838876 event type: 2
+customer 88 is leaving at time 455.29255928838876
+
+current time: 461.83338690195734 event type: 1
+customer 89 arrives
+customer 89 is served at 461.83338690195734by cashier 0 and will leave at 463.0765804939293
+
+current time: 462.0941214970728 event type: 1
+customer 90 arrives
+customer 90 is served at 462.0941214970728by cashier 1 and will leave at 463.5500075498781
+
+current time: 462.9013419726594 event type: 1
+customer 91 arrives
+customer 91 is served at 462.9013419726594by cashier 2 and will leave at 470.7124267052263
+
+current time: 463.0765804939293 event type: 2
+customer 89 is leaving at time 463.0765804939293
+
+current time: 463.5500075498781 event type: 2
+customer 90 is leaving at time 463.5500075498781
+
+current time: 467.9184434327741 event type: 1
+customer 92 arrives
+customer 92 is served at 467.9184434327741by cashier 0 and will leave at 469.1616370247461
+
+current time: 469.1616370247461 event type: 2
+customer 92 is leaving at time 469.1616370247461
+
+current time: 470.6268789306901 event type: 1
+customer 93 arrives
+customer 93 is served at 470.6268789306901by cashier 0 and will leave at 471.8700725226621
+
+current time: 470.7124267052263 event type: 2
+customer 91 is leaving at time 470.7124267052263
+
+current time: 471.8700725226621 event type: 2
+customer 93 is leaving at time 471.8700725226621
+
+current time: 485.8995266992727 event type: 1
+customer 94 arrives
+customer 94 is served at 485.8995266992727by cashier 0 and will leave at 487.1427202912447
+
+current time: 487.1427202912447 event type: 2
+customer 94 is leaving at time 487.1427202912447
+
+current time: 505.3097074421692 event type: 1
+customer 95 arrives
+customer 95 is served at 505.3097074421692by cashier 0 and will leave at 506.5529010341412
+
+current time: 506.3521499170804 event type: 1
+customer 96 arrives
+customer 96 is served at 506.3521499170804by cashier 1 and will leave at 507.8080359698857
+
+current time: 506.5529010341412 event type: 2
+customer 95 is leaving at time 506.5529010341412
+
+current time: 507.8080359698857 event type: 2
+customer 96 is leaving at time 507.8080359698857
+
+current time: 516.0679823420104 event type: 1
+customer 97 arrives
+customer 97 is served at 516.0679823420104by cashier 0 and will leave at 517.3111759339824
+
+current time: 517.3111759339824 event type: 2
+customer 97 is leaving at time 517.3111759339824
+
+current time: 527.5596111363898 event type: 1
+customer 98 arrives
+customer 98 is served at 527.5596111363898by cashier 0 and will leave at 528.8028047283618
+
+current time: 528.8028047283618 event type: 2
+customer 98 is leaving at time 528.8028047283618
+
+current time: 534.4453014540412 event type: 1
+customer 99 arrives
+customer 99 is served at 534.4453014540412by cashier 0 and will leave at 535.6884950460133
+
+current time: 535.6884950460133 event type: 2
+customer 99 is leaving at time 535.6884950460133
+
+current time: 541.6395611296165 event type: 1
+customer 100 arrives
+customer 100 is served at 541.6395611296165by cashier 0 and will leave at 542.8827547215885
+
+current time: 542.8827547215885 event type: 2
+customer 100 is leaving at time 542.8827547215885
+
+current time: 545.4173366596601 event type: 1
+customer 101 arrives
+customer 101 is served at 545.4173366596601by cashier 0 and will leave at 546.6605302516322
+
+current time: 545.6669220720999 event type: 1
+customer 102 arrives
+customer 102 is served at 545.6669220720999by cashier 1 and will leave at 547.1228081249051
+
+current time: 546.6605302516322 event type: 2
+customer 101 is leaving at time 546.6605302516322
+
+current time: 547.0060200708311 event type: 1
+customer 103 arrives
+customer 103 is served at 547.0060200708311by cashier 0 and will leave at 548.2492136628032
+
+current time: 547.1228081249051 event type: 2
+customer 102 is leaving at time 547.1228081249051
+
+current time: 548.2492136628032 event type: 2
+customer 103 is leaving at time 548.2492136628032
+
+current time: 551.4867010810153 event type: 1
+customer 104 arrives
+customer 104 is served at 551.4867010810153by cashier 0 and will leave at 552.7298946729874
+
+current time: 552.7298946729874 event type: 2
+customer 104 is leaving at time 552.7298946729874
+
+current time: 554.3588539915972 event type: 1
+customer 105 arrives
+customer 105 is served at 554.3588539915972by cashier 0 and will leave at 555.6020475835693
+
+current time: 555.6020475835693 event type: 2
+customer 105 is leaving at time 555.6020475835693
+
+current time: 557.9963383460599 event type: 1
+customer 106 arrives
+customer 106 is served at 557.9963383460599by cashier 0 and will leave at 559.239531938032
+
+current time: 558.2649260110791 event type: 1
+customer 107 arrives
+customer 107 is served at 558.2649260110791by cashier 1 and will leave at 559.7208120638843
+
+current time: 559.239531938032 event type: 2
+customer 106 is leaving at time 559.239531938032
+
+current time: 559.7208120638843 event type: 2
+customer 107 is leaving at time 559.7208120638843
+
+current time: 563.3251603425592 event type: 1
+customer 108 arrives
+customer 108 is served at 563.3251603425592by cashier 0 and will leave at 564.5683539345313
+
+current time: 564.5683539345313 event type: 2
+customer 108 is leaving at time 564.5683539345313
+
+current time: 565.3412918381764 event type: 1
+customer 109 arrives
+customer 109 is served at 565.3412918381764by cashier 0 and will leave at 566.5844854301484
+
+current time: 566.5844854301484 event type: 2
+customer 109 is leaving at time 566.5844854301484
+
+current time: 566.9616360649087 event type: 1
+customer 110 arrives
+customer 110 is served at 566.9616360649087by cashier 0 and will leave at 568.2048296568807
+
+current time: 568.2048296568807 event type: 2
+customer 110 is leaving at time 568.2048296568807
+
+current time: 569.7151910806472 event type: 1
+customer 111 arrives
+customer 111 is served at 569.7151910806472by cashier 0 and will leave at 570.9583846726192
+
+current time: 570.9583846726192 event type: 2
+customer 111 is leaving at time 570.9583846726192
+
+current time: 571.3584392958109 event type: 1
+customer 112 arrives
+customer 112 is served at 571.3584392958109by cashier 0 and will leave at 572.6016328877829
+
+current time: 572.6016328877829 event type: 2
+customer 112 is leaving at time 572.6016328877829
+
+current time: 577.6533589850617 event type: 1
+customer 113 arrives
+customer 113 is served at 577.6533589850617by cashier 0 and will leave at 578.8965525770337
+
+current time: 578.7195621546725 event type: 1
+customer 114 arrives
+customer 114 is served at 578.7195621546725by cashier 1 and will leave at 580.1754482074778
+
+current time: 578.8965525770337 event type: 2
+customer 113 is leaving at time 578.8965525770337
+
+current time: 580.1754482074778 event type: 2
+customer 114 is leaving at time 580.1754482074778
+
+current time: 582.8012121893831 event type: 1
+customer 115 arrives
+customer 115 is served at 582.8012121893831by cashier 0 and will leave at 584.0444057813552
+
+current time: 584.0444057813552 event type: 2
+customer 115 is leaving at time 584.0444057813552
+
+current time: 587.9601931511112 event type: 1
+customer 116 arrives
+customer 116 is served at 587.9601931511112by cashier 0 and will leave at 589.2033867430832
+
+current time: 588.6947373273817 event type: 1
+customer 117 arrives
+customer 117 is served at 588.6947373273817by cashier 1 and will leave at 590.150623380187
+
+current time: 589.2033867430832 event type: 2
+customer 116 is leaving at time 589.2033867430832
+
+current time: 590.150623380187 event type: 2
+customer 117 is leaving at time 590.150623380187
+
+current time: 597.618534028771 event type: 1
+customer 118 arrives
+customer 118 is served at 597.618534028771by cashier 0 and will leave at 598.8617276207431
+
+current time: 598.8617276207431 event type: 2
+customer 118 is leaving at time 598.8617276207431
+
+current time: 607.6646654434579 event type: 1
+customer 119 arrives
+customer 119 is served at 607.6646654434579by cashier 0 and will leave at 608.90785903543
+
+current time: 608.90785903543 event type: 2
+customer 119 is leaving at time 608.90785903543
+
+current time: 615.8319855591474 event type: 1
+customer 120 arrives
+customer 120 is served at 615.8319855591474by cashier 0 and will leave at 617.0751791511194
+
+current time: 617.0751791511194 event type: 2
+customer 120 is leaving at time 617.0751791511194
+
+current time: 620.5829357372719 event type: 1
+customer 121 arrives
+customer 121 is served at 620.5829357372719by cashier 0 and will leave at 621.8261293292439
+
+current time: 621.2502096400194 event type: 1
+customer 122 arrives
+customer 122 is served at 621.2502096400194by cashier 1 and will leave at 622.7060956928246
+
+current time: 621.8261293292439 event type: 2
+customer 121 is leaving at time 621.8261293292439
+
+current time: 622.7060956928246 event type: 2
+customer 122 is leaving at time 622.7060956928246
+
+current time: 623.3613573956063 event type: 1
+customer 123 arrives
+customer 123 is served at 623.3613573956063by cashier 0 and will leave at 624.6045509875784
+
+current time: 623.4048706727727 event type: 1
+customer 124 arrives
+customer 124 is served at 623.4048706727727by cashier 1 and will leave at 624.860756725578
+
+current time: 623.9631642967291 event type: 1
+customer 125 arrives
+customer 125 is served at 623.9631642967291by cashier 2 and will leave at 631.774249029296
+
+current time: 624.6045509875784 event type: 2
+customer 123 is leaving at time 624.6045509875784
+
+current time: 624.860756725578 event type: 2
+customer 124 is leaving at time 624.860756725578
+
+current time: 626.1109375628778 event type: 1
+customer 126 arrives
+customer 126 is served at 626.1109375628778by cashier 0 and will leave at 627.3541311548498
+
+current time: 627.3541311548498 event type: 2
+customer 126 is leaving at time 627.3541311548498
+
+current time: 631.774249029296 event type: 2
+customer 125 is leaving at time 631.774249029296
+
+current time: 634.8401806300142 event type: 1
+customer 127 arrives
+customer 127 is served at 634.8401806300142by cashier 0 and will leave at 636.0833742219862
+
+current time: 636.0833742219862 event type: 2
+customer 127 is leaving at time 636.0833742219862
+
+current time: 636.6030062555305 event type: 1
+customer 128 arrives
+customer 128 is served at 636.6030062555305by cashier 0 and will leave at 637.8461998475026
+
+current time: 637.8461998475026 event type: 2
+customer 128 is leaving at time 637.8461998475026
+
+current time: 644.8522791652765 event type: 1
+customer 129 arrives
+customer 129 is served at 644.8522791652765by cashier 0 and will leave at 646.0954727572486
+
+current time: 646.0954727572486 event type: 2
+customer 129 is leaving at time 646.0954727572486
+
+current time: 647.836479211041 event type: 1
+customer 130 arrives
+customer 130 is served at 647.836479211041by cashier 0 and will leave at 649.0796728030131
+
+current time: 649.0796728030131 event type: 2
+customer 130 is leaving at time 649.0796728030131
+
+current time: 650.5400131390204 event type: 1
+customer 131 arrives
+customer 131 is served at 650.5400131390204by cashier 0 and will leave at 651.7832067309924
+
+current time: 651.7832067309924 event type: 2
+customer 131 is leaving at time 651.7832067309924
+
+current time: 659.9993153553295 event type: 1
+customer 132 arrives
+customer 132 is served at 659.9993153553295by cashier 0 and will leave at 661.2425089473015
+
+current time: 661.2425089473015 event type: 2
+customer 132 is leaving at time 661.2425089473015
+
+current time: 666.3351346385474 event type: 1
+customer 133 arrives
+customer 133 is served at 666.3351346385474by cashier 0 and will leave at 667.5783282305194
+
+current time: 667.2174351706942 event type: 1
+customer 134 arrives
+customer 134 is served at 667.2174351706942by cashier 1 and will leave at 668.6733212234994
+
+current time: 667.5783282305194 event type: 2
+customer 133 is leaving at time 667.5783282305194
+
+current time: 668.6733212234994 event type: 2
+customer 134 is leaving at time 668.6733212234994
+
+current time: 669.7347369555132 event type: 1
+customer 135 arrives
+customer 135 is served at 669.7347369555132by cashier 0 and will leave at 670.9779305474852
+
+current time: 670.9779305474852 event type: 2
+customer 135 is leaving at time 670.9779305474852
+
+current time: 676.2368708159124 event type: 1
+customer 136 arrives
+customer 136 is served at 676.2368708159124by cashier 0 and will leave at 677.4800644078845
+
+current time: 677.4800644078845 event type: 2
+customer 136 is leaving at time 677.4800644078845
+
+current time: 678.5156952824384 event type: 1
+customer 137 arrives
+customer 137 is served at 678.5156952824384by cashier 0 and will leave at 679.7588888744104
+
+current time: 679.7588888744104 event type: 2
+customer 137 is leaving at time 679.7588888744104
+
+current time: 698.3433977544003 event type: 1
+customer 138 arrives
+customer 138 is served at 698.3433977544003by cashier 0 and will leave at 699.5865913463723
+
+current time: 699.5865913463723 event type: 2
+customer 138 is leaving at time 699.5865913463723
+
+current time: 726.9133926491714 event type: 1
+customer 139 arrives
+customer 139 is served at 726.9133926491714by cashier 0 and will leave at 728.1565862411435
+
+current time: 728.1565862411435 event type: 2
+customer 139 is leaving at time 728.1565862411435
+
+current time: 732.2194421362783 event type: 1
+customer 140 arrives
+customer 140 is served at 732.2194421362783by cashier 0 and will leave at 733.4626357282503
+
+current time: 733.4626357282503 event type: 2
+customer 140 is leaving at time 733.4626357282503
+
+current time: 740.252101085083 event type: 1
+customer 141 arrives
+customer 141 is served at 740.252101085083by cashier 0 and will leave at 741.4952946770551
+
+current time: 741.4952946770551 event type: 2
+customer 141 is leaving at time 741.4952946770551
+
+current time: 744.4780916320815 event type: 1
+customer 142 arrives
+customer 142 is served at 744.4780916320815by cashier 0 and will leave at 745.7212852240535
+
+current time: 744.836238167188 event type: 1
+customer 143 arrives
+customer 143 is served at 744.836238167188by cashier 1 and will leave at 746.2921242199932
+
+current time: 745.7212852240535 event type: 2
+customer 142 is leaving at time 745.7212852240535
+
+current time: 746.2921242199932 event type: 2
+customer 143 is leaving at time 746.2921242199932
+
+current time: 756.349623026234 event type: 1
+customer 144 arrives
+customer 144 is served at 756.349623026234by cashier 0 and will leave at 757.592816618206
+
+current time: 757.592816618206 event type: 2
+customer 144 is leaving at time 757.592816618206
+
+current time: 770.5497421836653 event type: 1
+customer 145 arrives
+customer 145 is served at 770.5497421836653by cashier 0 and will leave at 771.7929357756374
+
+current time: 771.7929357756374 event type: 2
+customer 145 is leaving at time 771.7929357756374
+
+current time: 779.0515297770721 event type: 1
+customer 146 arrives
+customer 146 is served at 779.0515297770721by cashier 0 and will leave at 780.2947233690442
+
+current time: 780.2947233690442 event type: 2
+customer 146 is leaving at time 780.2947233690442
+
+current time: 780.7008337689007 event type: 1
+customer 147 arrives
+customer 147 is served at 780.7008337689007by cashier 0 and will leave at 781.9440273608727
+
+current time: 781.9440273608727 event type: 2
+customer 147 is leaving at time 781.9440273608727
+
+current time: 783.0322316106084 event type: 1
+customer 148 arrives
+customer 148 is served at 783.0322316106084by cashier 0 and will leave at 784.2754252025804
+
+current time: 784.1399157497441 event type: 1
+customer 149 arrives
+customer 149 is served at 784.1399157497441by cashier 1 and will leave at 785.5958018025493
+
+current time: 784.2754252025804 event type: 2
+customer 148 is leaving at time 784.2754252025804
+
+current time: 785.5958018025493 event type: 2
+customer 149 is leaving at time 785.5958018025493
+
+current time: 786.4630556759861 event type: 1
+customer 150 arrives
+customer 150 is served at 786.4630556759861by cashier 0 and will leave at 787.7062492679581
+
+current time: 787.7062492679581 event type: 2
+customer 150 is leaving at time 787.7062492679581
+
+current time: 791.717752730361 event type: 1
+customer 151 arrives
+customer 151 is served at 791.717752730361by cashier 0 and will leave at 792.960946322333
+
+current time: 792.960946322333 event type: 2
+customer 151 is leaving at time 792.960946322333
+
+current time: 795.1587043063108 event type: 1
+customer 152 arrives
+customer 152 is served at 795.1587043063108by cashier 0 and will leave at 796.4018978982829
+
+current time: 796.4018978982829 event type: 2
+customer 152 is leaving at time 796.4018978982829
+
+current time: 802.5657845584019 event type: 1
+customer 153 arrives
+customer 153 is served at 802.5657845584019by cashier 0 and will leave at 803.808978150374
+
+current time: 803.503652159148 event type: 1
+customer 154 arrives
+customer 154 is served at 803.503652159148by cashier 1 and will leave at 804.9595382119533
+
+current time: 803.808978150374 event type: 2
+customer 153 is leaving at time 803.808978150374
+
+current time: 804.9595382119533 event type: 2
+customer 154 is leaving at time 804.9595382119533
+
+current time: 806.8065806999841 event type: 1
+customer 155 arrives
+customer 155 is served at 806.8065806999841by cashier 0 and will leave at 808.0497742919562
+
+current time: 808.0497742919562 event type: 2
+customer 155 is leaving at time 808.0497742919562
+
+current time: 810.9038593072803 event type: 1
+customer 156 arrives
+customer 156 is served at 810.9038593072803by cashier 0 and will leave at 812.1470528992523
+
+current time: 812.1470528992523 event type: 2
+customer 156 is leaving at time 812.1470528992523
+
+current time: 814.1031389532989 event type: 1
+customer 157 arrives
+customer 157 is served at 814.1031389532989by cashier 0 and will leave at 815.3463325452709
+
+current time: 814.9191653383757 event type: 1
+customer 158 arrives
+customer 158 is served at 814.9191653383757by cashier 1 and will leave at 816.3750513911809
+
+current time: 815.3463325452709 event type: 2
+customer 157 is leaving at time 815.3463325452709
+
+current time: 816.3750513911809 event type: 2
+customer 158 is leaving at time 816.3750513911809
+
+current time: 817.6275331954319 event type: 1
+customer 159 arrives
+customer 159 is served at 817.6275331954319by cashier 0 and will leave at 818.8707267874039
+
+current time: 818.8707267874039 event type: 2
+customer 159 is leaving at time 818.8707267874039
+
+current time: 824.4797593121971 event type: 1
+customer 160 arrives
+customer 160 is served at 824.4797593121971by cashier 0 and will leave at 825.7229529041691
+
+current time: 825.7229529041691 event type: 2
+customer 160 is leaving at time 825.7229529041691
+
+current time: 839.1608162708895 event type: 1
+customer 161 arrives
+customer 161 is served at 839.1608162708895by cashier 0 and will leave at 840.4040098628616
+
+current time: 839.4861671903564 event type: 1
+customer 162 arrives
+customer 162 is served at 839.4861671903564by cashier 1 and will leave at 840.9420532431616
+
+current time: 840.3848868711434 event type: 1
+customer 163 arrives
+customer 163 is served at 840.3848868711434by cashier 2 and will leave at 848.1959716037103
+
+current time: 840.4040098628616 event type: 2
+customer 161 is leaving at time 840.4040098628616
+
+current time: 840.9420532431616 event type: 2
+customer 162 is leaving at time 840.9420532431616
+
+current time: 841.8912403678416 event type: 1
+customer 164 arrives
+customer 164 is served at 841.8912403678416by cashier 0 and will leave at 843.1344339598137
+
+current time: 842.7859945106699 event type: 1
+customer 165 arrives
+customer 165 is served at 842.7859945106699by cashier 1 and will leave at 844.2418805634751
+
+current time: 843.1344339598137 event type: 2
+customer 164 is leaving at time 843.1344339598137
+
+current time: 843.2862999842561 event type: 1
+customer 166 arrives
+customer 166 is served at 843.2862999842561by cashier 0 and will leave at 844.5294935762281
+
+current time: 844.2418805634751 event type: 2
+customer 165 is leaving at time 844.2418805634751
+
+current time: 844.5294935762281 event type: 2
+customer 166 is leaving at time 844.5294935762281
+
+current time: 848.1959716037103 event type: 2
+customer 163 is leaving at time 848.1959716037103
+
+current time: 849.3360970845737 event type: 1
+customer 167 arrives
+customer 167 is served at 849.3360970845737by cashier 0 and will leave at 850.5792906765457
+
+current time: 850.5792906765457 event type: 2
+customer 167 is leaving at time 850.5792906765457
+
+current time: 852.921456874446 event type: 1
+customer 168 arrives
+customer 168 is served at 852.921456874446by cashier 0 and will leave at 854.164650466418
+
+current time: 854.164650466418 event type: 2
+customer 168 is leaving at time 854.164650466418
+
+current time: 858.282749041172 event type: 1
+customer 169 arrives
+customer 169 is served at 858.282749041172by cashier 0 and will leave at 859.525942633144
+
+current time: 859.525942633144 event type: 2
+customer 169 is leaving at time 859.525942633144
+
+current time: 865.3376746831015 event type: 1
+customer 170 arrives
+customer 170 is served at 865.3376746831015by cashier 0 and will leave at 866.5808682750735
+
+current time: 866.1614823921632 event type: 1
+customer 171 arrives
+customer 171 is served at 866.1614823921632by cashier 1 and will leave at 867.6173684449684
+
+current time: 866.5808682750735 event type: 2
+customer 170 is leaving at time 866.5808682750735
+
+current time: 867.6173684449684 event type: 2
+customer 171 is leaving at time 867.6173684449684
+
+current time: 870.5879604774128 event type: 1
+customer 172 arrives
+customer 172 is served at 870.5879604774128by cashier 0 and will leave at 871.8311540693849
+
+current time: 871.8311540693849 event type: 2
+customer 172 is leaving at time 871.8311540693849
+
+current time: 874.3372977514091 event type: 1
+customer 173 arrives
+customer 173 is served at 874.3372977514091by cashier 0 and will leave at 875.5804913433811
+
+current time: 875.5804913433811 event type: 2
+customer 173 is leaving at time 875.5804913433811
+
+current time: 876.3522559390424 event type: 1
+customer 174 arrives
+customer 174 is served at 876.3522559390424by cashier 0 and will leave at 877.5954495310144
+
+current time: 877.5954495310144 event type: 2
+customer 174 is leaving at time 877.5954495310144
+
+current time: 877.9844849344282 event type: 1
+customer 175 arrives
+customer 175 is served at 877.9844849344282by cashier 0 and will leave at 879.2276785264003
+
+current time: 879.2276785264003 event type: 2
+customer 175 is leaving at time 879.2276785264003
+
+current time: 889.4944045529908 event type: 1
+customer 176 arrives
+customer 176 is served at 889.4944045529908by cashier 0 and will leave at 890.7375981449628
+
+current time: 890.7375981449628 event type: 2
+customer 176 is leaving at time 890.7375981449628
+
+current time: 892.2601936908629 event type: 1
+customer 177 arrives
+customer 177 is served at 892.2601936908629by cashier 0 and will leave at 893.503387282835
+
+current time: 892.5538155313947 event type: 1
+customer 178 arrives
+customer 178 is served at 892.5538155313947by cashier 1 and will leave at 894.0097015841999
+
+current time: 893.503387282835 event type: 2
+customer 177 is leaving at time 893.503387282835
+
+current time: 894.0097015841999 event type: 2
+customer 178 is leaving at time 894.0097015841999
+
+current time: 896.9123676987249 event type: 1
+customer 179 arrives
+customer 179 is served at 896.9123676987249by cashier 0 and will leave at 898.1555612906969
+
+current time: 897.8514325267481 event type: 1
+customer 180 arrives
+customer 180 is served at 897.8514325267481by cashier 1 and will leave at 899.3073185795533
+
+current time: 898.1555612906969 event type: 2
+customer 179 is leaving at time 898.1555612906969
+
+current time: 899.3073185795533 event type: 2
+customer 180 is leaving at time 899.3073185795533
+
+current time: 905.9413410467881 event type: 1
+customer 181 arrives
+customer 181 is served at 905.9413410467881by cashier 0 and will leave at 907.1845346387602
+
+current time: 906.1316037152175 event type: 1
+customer 182 arrives
+customer 182 is served at 906.1316037152175by cashier 1 and will leave at 907.5874897680227
+
+current time: 907.1845346387602 event type: 2
+customer 181 is leaving at time 907.1845346387602
+
+current time: 907.5874897680227 event type: 2
+customer 182 is leaving at time 907.5874897680227
+
+current time: 907.6005358321868 event type: 1
+customer 183 arrives
+customer 183 is served at 907.6005358321868by cashier 0 and will leave at 908.8437294241588
+
+current time: 908.8437294241588 event type: 2
+customer 183 is leaving at time 908.8437294241588
+
+current time: 913.1309986622039 event type: 1
+customer 184 arrives
+customer 184 is served at 913.1309986622039by cashier 0 and will leave at 914.3741922541759
+
+current time: 914.3741922541759 event type: 2
+customer 184 is leaving at time 914.3741922541759
+
+current time: 916.6081814994538 event type: 1
+customer 185 arrives
+customer 185 is served at 916.6081814994538by cashier 0 and will leave at 917.8513750914259
+
+current time: 917.8513750914259 event type: 2
+customer 185 is leaving at time 917.8513750914259
+
+current time: 926.6614950251925 event type: 1
+customer 186 arrives
+customer 186 is served at 926.6614950251925by cashier 0 and will leave at 927.9046886171645
+
+current time: 927.9046886171645 event type: 2
+customer 186 is leaving at time 927.9046886171645
+
+current time: 936.016825103882 event type: 1
+customer 187 arrives
+customer 187 is served at 936.016825103882by cashier 0 and will leave at 937.260018695854
+
+current time: 937.260018695854 event type: 2
+customer 187 is leaving at time 937.260018695854
+
+current time: 949.2946822795473 event type: 1
+customer 188 arrives
+customer 188 is served at 949.2946822795473by cashier 0 and will leave at 950.5378758715193
+
+current time: 950.5378758715193 event type: 2
+customer 188 is leaving at time 950.5378758715193
+
+current time: 951.595014311212 event type: 1
+customer 189 arrives
+customer 189 is served at 951.595014311212by cashier 0 and will leave at 952.8382079031841
+
+current time: 952.8382079031841 event type: 2
+customer 189 is leaving at time 952.8382079031841
+
+current time: 960.5883972888857 event type: 1
+customer 190 arrives
+customer 190 is served at 960.5883972888857by cashier 0 and will leave at 961.8315908808578
+
+current time: 961.8315908808578 event type: 2
+customer 190 is leaving at time 961.8315908808578
+The amount of daily net profit is : -818.0
+overflow: 0
+The rate of overflow is : 0.0The average waiting time of all customers served is : 0.0
+The maximum waiting time of all customers served is : 0.0
+The total number of customers is: 191
